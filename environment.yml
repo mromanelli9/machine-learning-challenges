@@ -1,0 +1,14 @@
+name: applied-ml-challenge
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - pip
+  - pip:
+    - jupyter
+    - numpy
+    - pandas
+    - beautifulsoup4
+    - matplotlib
+    - seaborn
+    - nltk
