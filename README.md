@@ -1,28 +1,10 @@
-# Junior Applied Machine Learning Technical Test
-This repository contains my solution to the *Junior Applied Machine Learning Technical Test*.  
-It consist of two Jupyter notebooks, one for the coding test and one for the discussion test.
+# Machine learning challenges
+A collection of machine learning exercises, tests, challenges.
 
-* See [Coding Test](coding_test.ipynb).  
-* See [Discussion Test](discussion_test.ipynb).    
+## Challenges
+* [_Listing title classifier_](listing-title-classifier/): Design a text classifier which will be able to classify a listing title in two categories: ASSET or NON-ASSET.
 
-## Setup
-Python 3.7 and Jupyter are required, as long as some external libraries (pandas, numpy, etc).  
-If you have Anaconda or miniconda installed, you can quickly create an environment
-by typing:
-```
-$ conda env create -f environment.yml
-$ conda activate applied-ml-challenge
-```
-
-## Usage
-Run the notebooks simply by typing:
-```
-$ jupyter notebook NOTEBOOK_NAME
-```
-For example, to see the first notebook is:
-```
-$ jupyter notebook coding_test.ipynb
-```
+For more information see the challenge READMEs.
 
 # License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Each challenge has a dedicated license.

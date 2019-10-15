@@ -1,4 +1,4 @@
-name: applied-ml-challenge
+name: ml-challenge
 channels:
   - defaults
 dependencies:
